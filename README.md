@@ -48,7 +48,7 @@ Foco em **simplicidade, previsibilidade** e uso pessoal.
 
 
 ## 🐾 Pipeline de Dados – Autorizações Ambientais (Fauna)
-Pipeline para **coleta, normalização e disponibilização** de dados públicos de autorizações de estudos de fauna no licenciamento ambiental estadual do Paraná, transformando dados não estruturados em **dataset relacional** consultável via API. :contentReference[oaicite:5]{index=5}  
+Pipeline para **coleta, normalização e disponibilização** de dados públicos de autorizações de estudos de fauna no licenciamento ambiental estadual do Paraná, transformando dados não estruturados em **dataset relacional** consultável via API.
 ➡️ Repo: https://github.com/Luis-leaf/pipeline_dados_fauna
 
 **Arquitetura (engenharia de dados clássica)**
